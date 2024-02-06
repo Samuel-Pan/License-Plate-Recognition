@@ -1,0 +1,5 @@
+train: train  # 训练图片文件夹的路径
+val: val      # 验证图片文件夹的路径
+nc: 1                         # 类别数
+names: [plate]                # 类别名称
+batch_size: 16
